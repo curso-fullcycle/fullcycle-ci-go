@@ -1,6 +1,3 @@
-#
-# CI Golang pipeline
-# 
 name: ci-golang-workflow
 on:
   pull_request:
